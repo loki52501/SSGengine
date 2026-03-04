@@ -131,10 +131,9 @@ Change fonts, colors, layout — the generator just fills in the placeholders.
 
 Windows. That's it. The `.exe` is self-contained.
 
-For other platforms (Mac/Linux), contact me, i will share the c++ 17 project files.
+For other platforms (Mac/Linux), clone the repo and build from source — C++17, standard library only.       
 
----
 
 ## Source
 
-The full C++ source will be updated here in few short days, so that you could use this repo if you want to modify the generator itself, add features, or build it for a different platform.
+The full C++ source is in the repo if you want to modify the generator itself, add features, or build it for a different platform.
